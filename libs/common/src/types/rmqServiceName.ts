@@ -1,0 +1,1 @@
+export const ASHLAND_RMQ_SERVICE = 'ASHLAND';
